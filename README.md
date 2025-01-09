@@ -4,15 +4,13 @@
 
 ### About me
 ---
+<p align="left">
 Hi, My name is Salar, I'm a backend developer with extensive experience in Django and Django Rest Framework (DRF). My work focuses on building scalable, robust, and secure web applications, with a specialization in car showroom platforms, user authentication, and complex coordination systems.
-
 I have successfully completed several large-scale projects, including:
-
 A car showroom management system with distinct admin roles and user management.
-
 Implementation of advanced features such as product (car) registration, buyer queue management, and appointment coordination.
-
 Integration with external services like Melipayamak SMS for sending notifications.
+</p>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
