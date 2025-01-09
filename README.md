@@ -1,9 +1,9 @@
 ![git](https://github.com/user-attachments/assets/d38c6095-8fe9-4bb5-ae0b-57f927dfb884)
 <h1>Welcome to my Github</h1>
 
-About Me
-
-Hi, I'm a backend developer with extensive experience in Django and Django Rest Framework (DRF). My work focuses on building scalable, robust, and secure web applications, with a specialization in car showroom platforms, user authentication, and complex coordination systems.
+### About me
+---
+Hi, My name is Salar, I'm a backend developer with extensive experience in Django and Django Rest Framework (DRF). My work focuses on building scalable, robust, and secure web applications, with a specialization in car showroom platforms, user authentication, and complex coordination systems.
 
 I have successfully completed several large-scale projects, including:
 
