@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my Github</h1>
+<h1 align="center">Welcome to my Github👋</h1>
 
 ![git](https://github.com/user-attachments/assets/0ff9a959-96ae-4003-a2f0-f856cf494d80)
 
@@ -40,7 +40,7 @@ Integration with external services like Melipayamak SMS for sending notification
 - Machine Learning & AI: Passion for deep learning, reinforcement learning, NLP, and computer vision.
   
 ### How to Reach Me
-
+---
 <a href="https://www.gmail.com/salarsaraei08@gmail.com" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" title="Gmail" alt="Gmail" height="30" width="40" /></a>
 <a href="linkedin.com/in/salar-saraei-a653b0293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="LinkedIn" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.instagram.com/salar.saraei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" title="Instagram" alt="Instagram" height="30" width="40" /></a>
