@@ -1,4 +1,4 @@
-👋 Welcome to my GitHub profile!
+![image](https://github.com/user-attachments/assets/d9be66fa-1fa6-477d-b96d-8458ac251ecf)👋 Welcome to my GitHub profile!
 
 About Me
 
@@ -15,7 +15,19 @@ Integration with external services like Melipayamak SMS for sending notification
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://github.com/user-attachments/assets/07a6fe1c-1c44-4bac-bc2d-2da3d7d1e111" alt="php" width="45" height="45"/>
+<img src="https://github.com/user-attachments/assets/55b2007b-c81e-4840-9143-f3ae5e4f23d3" alt="pycharm" width="45" height="45"/>
+<img src="https://github.com/user-attachments/assets/d9092d0a-ae0c-409b-a82f-be133eb66520" alt="python" width="45" height="45"/>
+<img src="https://github.com/user-attachments/assets/07a6fe1c-1c44-4bac-bc2d-2da3d7d1e111" alt="django" width="45" height="45"/>
+<img src="https://github.com/user-attachments/assets/5191ae6a-7f8c-4c09-b937-0a92da05c9d4" alt="django-rest" width="45" height="45"/>
+<img src="https://github.com/user-attachments/assets/824ea1eb-820a-4522-99d6-c4fece3d9f96" alt="PostgreSQL" width="45" height="45"/>
+<img src="https://github.com/user-attachments/assets/cfe75a80-faf3-4775-ae56-a64556ffde24" alt="SQLite" width="45" height="45"/>
+<img src="https://github.com/user-attachments/assets/fb985b27-c55c-4bd5-ae59-577699691888" alt="Docker" width="45" height="45"/>
+<img src="https://github.com/user-attachments/assets/ce31d4a0-14a2-4b85-a69a-01b0caad6ee9" alt="Nginx" width="45" height="45"/>
+<img src="https://github.com/user-attachments/assets/b386d24b-622e-49c3-847f-f44eb9ecaa05" alt="HTML" width="45" height="45"/>
+<img src="https://github.com/user-attachments/assets/ecf441c8-5c92-49b0-b1ec-81b409c4732a" alt="CSS" width="45" height="45"/>
+<img src="https://github.com/user-attachments/assets/a890da97-020e-4a53-982d-24304243239b" alt="JS" width="45" height="45"/>
+<img src="https://github.com/user-attachments/assets/01b5a7e5-2f6d-477a-988a-f4df54c61c48" alt="Bootstrap" width="45" height="45"/>
+<img src="https://github.com/user-attachments/assets/732d94d4-0096-42ae-b7b0-2b986656db47" alt="Redis" width="45" height="45"/>
 </p>
 
 Django
