@@ -30,101 +30,24 @@ Integration with external services like Melipayamak SMS for sending notification
 <img src="https://github.com/user-attachments/assets/732d94d4-0096-42ae-b7b0-2b986656db47" alt="Redis" width="45" height="45"/>
 </p>
 
-Django
+### Interests
+---
+- Backend Development: Expertise in Django and Django Rest Framework for building scalable systems.
+- Web Application Security: Implementation of secure user authentication and role-based access control.
+- Database Design: Working with relational databases and designing complex relationships.
+- DevOps: Containerizing applications using Docker and managing deployments with Nginx and Gunicorn.
+- Task Scheduling: Using Celery and Redis for asynchronous task management.
+- Machine Learning & AI: Passion for deep learning, reinforcement learning, NLP, and computer vision.
+  
+### How to Reach Me
 
-Django Rest Framework
+Email: <a href="https://www.gmail.com/salarsaraei08@gmail.com" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" title="Gmail" alt="Gmail" height="30" width="40" /></a>
 
-Custom User Models
+LinkedIn: <a href="linkedin.com/in/salar-saraei-a653b0293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="LinkedIn" alt="LinkedIn" height="30" width="40" /></a>
 
-JWT Authentication
+Instagram: <a href="https://www.instagram.com/salar.saraei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" title="Instagram" alt="Instagram" height="30" width="40" /></a>
 
-Database Management
-
-PostgreSQL
-
-SQLite
-
-Database design with relationships, including:
-
-Many-to-many relationships (e.g., skills in user profiles)
-
-Foreign key relations for complex data models
-
-DevOps & Deployment
-
-Docker (Containerization of Django applications)
-
-Nginx
-
-Gunicorn
-
-Frontend Development
-
-HTML/CSS
-
-JavaScript (for dynamic UI elements like brand and model filters)
-
-Bootstrap (for responsive design)
-
-Other Tools & Services
-
-Melipayamak SMS API (for sending SMS notifications)
-
-Git & GitHub (version control and project collaboration)
-
-Celery (for task scheduling)
-
-Redis (as a message broker for Celery)
-
-Key Projects
-
-Here are some of the key projects I've worked on:
-
-1. Car Showroom Platform
-
-A web platform for managing car ads, including:
-
-User and Admin Roles: Separate access levels for admins and users.
-
-Vehicle Registration: Users can post ads for cars with up to 4 images.
-
-Advanced Filters: Dynamic brand and model filters, as well as price, mileage, and production year sliders.
-
-Coordination System: Scheduling appointments between buyers and sellers, with SMS notifications for both parties.
-
-Buyer Queue Management: Handling waiting lists for reserved vehicles and notifying potential buyers of their position in the queue.
-
-2. User Authentication & Verification
-
-Phone Number Verification: Implemented a system where users register/login using their phone number and a verification code sent via SMS.
-
-JWT Authentication: Secure token-based authentication for API access.
-
-3. Contract Management System
-
-Developed a contract management module with the following features:
-
-Storing contract details (start date, duration, final price, terms, etc.)
-
-Pagination for contract views
-
-4. Request Notification System
-
-Implemented a scheduled task that:
-
-Checks requests for specific car models and prices.
-
-Sends SMS notifications to users when matching cars are found.
-
-Updates the request status after notifying the requester.
-
-How to Reach Me
-
-Email: your-email@example.com
-
-LinkedIn: Your LinkedIn Profile
-
-GitHub: Your GitHub Profile
+Telegram: <a href="https://t.me/Swlrx" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" title="Telegram" alt="Telegram" height="30" width="40" /></a>
 
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on a project.
 
