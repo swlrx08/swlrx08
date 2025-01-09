@@ -13,6 +13,7 @@ Integration with external services like Melipayamak SMS for sending notification
 </p>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+---
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://github.com/user-attachments/assets/55b2007b-c81e-4840-9143-f3ae5e4f23d3" alt="pycharm" width="45" height="45"/>
