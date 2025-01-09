@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d9be66fa-1fa6-477d-b96d-8458ac251ecf)👋 Welcome to my GitHub profile!
+![git](https://github.com/user-attachments/assets/d38c6095-8fe9-4bb5-ae0b-57f927dfb884)
 
 About Me
 
