@@ -12,7 +12,7 @@ Implementation of advanced features such as product (car) registration, buyer qu
 Integration with external services like Melipayamak SMS for sending notifications.
 </p>
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+### 🚀 &nbsp;Some Tools I Have Used and Learned
 ---
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
