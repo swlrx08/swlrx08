@@ -41,13 +41,10 @@ Integration with external services like Melipayamak SMS for sending notification
   
 ### How to Reach Me
 
-Email: <a href="https://www.gmail.com/salarsaraei08@gmail.com" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" title="Gmail" alt="Gmail" height="30" width="40" /></a>
-
-LinkedIn: <a href="linkedin.com/in/salar-saraei-a653b0293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="LinkedIn" alt="LinkedIn" height="30" width="40" /></a>
-
-Instagram: <a href="https://www.instagram.com/salar.saraei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" title="Instagram" alt="Instagram" height="30" width="40" /></a>
-
-Telegram: <a href="https://t.me/Swlrx" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" title="Telegram" alt="Telegram" height="30" width="40" /></a>
+<a href="https://www.gmail.com/salarsaraei08@gmail.com" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" title="Gmail" alt="Gmail" height="30" width="40" /></a>
+<a href="linkedin.com/in/salar-saraei-a653b0293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="LinkedIn" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.instagram.com/salar.saraei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" title="Instagram" alt="Instagram" height="30" width="40" /></a>
+<a href="https://t.me/Swlrx" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" title="Telegram" alt="Telegram" height="30" width="40" /></a>
 
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on a project.
 
